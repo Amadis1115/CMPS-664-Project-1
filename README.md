@@ -12,7 +12,7 @@ It was composed of 2 parts:
 
 # How to Run this Project 
 
-* There is a recorded video demonstration in the repository *
+ * There is a recorded video demonstration in the repository *
 
 Part A: 
 - Run database generation and schema SQL Script(its uploaded to this repo)
