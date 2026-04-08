@@ -10,9 +10,7 @@ It was composed of 2 parts:
 
 - Part B: Development of a normalization tool that analyzes relations using functional dependencies and performs decomposition up to BCNF. The tool also has various features such as Automated seat generation per flight, Seat assignment system and even a Check-in system. Additionally, this tool has an interactive query interface that the user has the option to insert additional columns, update current columns, delete current columns or just freestyle and query whatever they would like. 
 
-# How to Run this Project 
-
- * There is a recorded video demonstration in the repository *
+# How to Run this Project(There is a recorded video demonstration in the repository)
 
 Part A: 
 - Run database generation and schema SQL Script(its uploaded to this repo)
