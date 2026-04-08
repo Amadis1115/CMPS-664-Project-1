@@ -12,9 +12,16 @@ It was composed of 2 parts:
 
 # How to Run this Project 
 
-- Part A: Run database generation and schema SQL Script(its uploaded to this repo) Execute Python scripts in order to load data, generate seats and assign seats(There are two python data loading scripts that you have to run) 
+* There is a recorded video demonstration in the repository *
 
-- Part B: Run Part B python File Select a table(relation) Provide CSV Path Follow prompts for SQL Generation, Database creation and Query interface 
+Part A: 
+- Run database generation and schema SQL Script(its uploaded to this repo)
+- Execute Python scripts in order to load data, generate seats and assign seats(There are two python data loading scripts that you have to run) 
+
+- Part B:
+- Run Part B python File
+- Select a table(relation)
+- Provide CSV Path Follow prompts for SQL Generation, Database creation and Query interface 
 
 # Tech Stack Used 
 
