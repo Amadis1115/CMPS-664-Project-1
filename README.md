@@ -4,7 +4,7 @@
 
 This is Airline Reservation System and Database Normalization Tool built with SQL and Python. In this project there were various implementations such as seat assignment logic, different types of constraints and functional dependency-based normalization. 
 
-It was composed of 2 parts: 
+It consisted of 2 parts: 
 
 - Part A: Design and implement a relational database system for airline reservations using SQL and Python. All of the data was provided to me so I had to figure out to parse the data and install it into my database. There were also queries in this part that we had to perform in order to answer the questions provided to us by our Instructor. 
 
